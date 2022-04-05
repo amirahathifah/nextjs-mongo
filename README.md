@@ -22,3 +22,5 @@ DB_NAME= "sample_posts"
 DEV_URL = "http://localhost:3000"
 PROD_URL = "http://localhost:3000" 
 ```
+
+please insert your mongodb url.
